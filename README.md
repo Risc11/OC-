@@ -2,8 +2,9 @@
   
 Lua:	[OC文件](OCboomboomboom.lua)  
 视频地址 https://www.bilibili.com/video/BV1chaZzcEdG?t  
-文件中miner_* bc_* 对应发射器与接收器   
+文件中miner_* bc_* 对应发射器与接收器的频率   
 视频中矿机信号1代表miner_tra  
 矿机信号2代表miner_sen  
 BC启动代表bc_tra  
 BC结束代表bc_sen    
+信号名字不重要信号频率对了就行   
